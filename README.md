@@ -14,6 +14,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+parallel change in  master with the branch
+
 ## Deployment
 
 ##BS
